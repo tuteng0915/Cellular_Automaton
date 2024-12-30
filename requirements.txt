@@ -1,0 +1,10 @@
+pygame
+json
+pygame_gui
+numpy
+pyinstaller
+
+
+
+
+
